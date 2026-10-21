@@ -1,0 +1,5 @@
+{
+  "programs": [
+    {"enabled": true, "name": "AnyDesk_6.3.5_Single", "path": "D:\\Program Files\\AnyDesk_6.3.5_Single.exe", "args": "", "delay": 1, "hide": 2}
+  ]
+}
